@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{6F2AE663-5ED9-4D02-B456-FEE25728D46D}|KundeOrdre">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OrdreKunde/Controllers/HomeContreoller.cs">
+    <Files>
+      <File FileName="OrdreKunde/Controllers/HomeContreoller.cs" Line="2" Column="34" />
+      <File FileName="OrdreKunde/Model/DB.cs" Line="33" Column="10" />
+      <File FileName="OrdreKunde/Model/DBInit.cs" Line="8" Column="18" />
+      <File FileName="OrdreKunde/Model/Kunde.cs" Line="1" Column="1" />
+      <File FileName="OrdreKunde/Properties/launchSettings.json" Line="30" Column="2" />
+      <File FileName="OrdreKunde/appsettings.json" Line="1" Column="1" />
+      <File FileName="OrdreKunde/Program.cs" Line="16" Column="1" />
+      <File FileName="OrdreKunde/Startup.cs" Line="23" Column="25" />
+      <File FileName="OrdreKunde/wwwroot/index.html" Line="11" Column="8" />
+      <File FileName="OrdreKunde/Model/Vare.cs" Line="1" Column="1" />
+      <File FileName="OrdreKunde/Model/OrdreLinje.cs" Line="1" Column="1" />
+      <File FileName="OrdreKunde/Model/Ordre.cs" Line="1" Column="1" />
+      <File FileName="OrdreKunde/wwwroot/js/index.js" Line="6" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OrdreKunde" expanded="True">
+            <Node name="OrdreKunde" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeContreoller.cs" selected="True" />
+              </Node>
+              <Node name="Model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OrdreKunde PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
